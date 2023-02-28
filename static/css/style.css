@@ -1,0 +1,18 @@
+
+body {
+    background-color: linen;
+    width: 100%;
+    }
+    
+h1 {
+    margin: 0 auto;
+    color: linen;
+    width: 50%;
+    text-align: center;
+}
+
+tr th {
+    width: 80%;
+    width: 100px;
+    height: 100px;
+}
